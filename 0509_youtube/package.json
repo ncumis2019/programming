@@ -1,0 +1,8 @@
+//整個專案的設定檔，避免js產生錯誤
+"eslintConfig":
+{
+    "globals":
+    {
+        "window":true
+    }
+}
