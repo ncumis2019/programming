@@ -1,8 +1,8 @@
 var playlist= //影片id
 [
-    "a9ot-Fa9KHk",
-    "SE6RDK2CtIw",
-    "elh6yIC7uVE"
+    "0kvaO2Vp6rM",
+    "2OzavcURQ_U",
+    "7c7sG591HYU"
 ];
 
 var playtime= //播放起迄秒數

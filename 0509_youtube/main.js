@@ -2,7 +2,7 @@
 var player;
 var currentplay=0;
 
-function onYoutubeIframeAPIReady(){
+function onYouTubeIframeAPIReady(){
     player=new YT.Player(
         "player",
         {
