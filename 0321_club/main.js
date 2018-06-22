@@ -1,6 +1,6 @@
 //程式邏輯，主要程式運作
 $(document).ready(function(){
-    $("#courseTable").append("<tr> <th>場次</th> <th>場次</th> <th>場次</th> </tr>");
+    $("#courseTable").append("<tr> <th>場次</th> <th>出發日期</th> <th>國家/城市</th> </tr>");
 
     var secondUnit=1000;
     var minuteUnit=secondUnit*60;

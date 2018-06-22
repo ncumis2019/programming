@@ -1,10 +1,10 @@
 //存放資料
 var topic=[//建立陣列
-    "一",
-    "二",
-    "a",
-    "b",
-    "c"
+    "Japan Kyoto",
+    "England London",
+    "Japan Kyoto",
+    "France Paris",
+    "England London"
 ];
 
 var start = new Date();
